@@ -279,4 +279,3 @@ def query():
 
     return jsonify({"response": response, "additional_data": ret_data})
 
-# print("Testttttttt")

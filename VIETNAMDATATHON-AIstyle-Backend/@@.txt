@@ -1,0 +1,1 @@
+file text này để đánh dấu tôi rất mệt mỏi với lỗi "nested Git repository"
